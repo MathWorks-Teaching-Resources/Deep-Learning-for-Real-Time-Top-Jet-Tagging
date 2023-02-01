@@ -18,7 +18,7 @@ using training datasets.
 4. Check accuracy of the network on test datasets.
 5. Deploy trained network on FPGA following Deploy Trained Network on FPGA section of the Live script.
 
-**MathWorks Products** (http://www.mathworks.com)
+**MathWorks Products** (https://www.mathworks.com)
 
 Requires MATLAB release R2020a or newer
 * [Deep Learning Toolbox](https://www.mathworks.com/products/deep-learning.html)
